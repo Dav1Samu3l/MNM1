@@ -1,0 +1,11 @@
+com\mycompany\maonamassa3\controller\VeiculoController.class
+com\mycompany\maonamassa3\model\Modelo.class
+com\mycompany\maonamassa3\model\Cliente.class
+com\mycompany\maonamassa3\model\Marca.class
+com\mycompany\maonamassa3\model\Motor.class
+com\mycompany\maonamassa3\view\VeiculoView.class
+com\mycompany\maonamassa3\model\enums\ETipoCombustivel.class
+com\mycompany\maonamassa3\model\Veiculo.class
+com\mycompany\maonamassa3\model\Cor.class
+com\mycompany\maonamassa3\model\enums\ECategoria.class
+com\mycompany\maonamassa3\Main.class
